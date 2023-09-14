@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #e0e6e8;
+}
+header{
+    height: 50px;
+    padding-top: 15px;
+    background-color: #323233;
+}
+nav a{
+    margin: 30px;
+    text-decoration: none;
+    font-size: larger;
+}
+
+.textContainer{
+    background-color: rgb(1,112,187);
+    height: 180px;
+    position: relative;
+    padding-left: 260px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 25px;
+    font-size: xx-large;
+}
+p{
+    font-size:large;
+}
+
+.imgContainer{
+    padding-left: 420px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
